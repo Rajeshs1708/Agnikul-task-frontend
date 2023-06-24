@@ -62,7 +62,7 @@ function Signup () {
 
         <h1 className='display-4 text-center'>Sign up</h1>
         <div className='mb-3'>
-          <label htmlFor='exampleInputEmail1' className='form-label'>
+          <label htmlFor='exampleInputName' className='form-label'>
             Name
           </label>
           <input
@@ -70,7 +70,7 @@ function Signup () {
             onChange={e => setName(e.target.value)}
             type='text'
             className='form-control'
-            id='exampleInputEmail1'
+            id='exampleInputName'
             aria-describedby='emailHelp'
           />
         </div>
