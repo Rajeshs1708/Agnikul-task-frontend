@@ -1,0 +1,9 @@
+.content {
+  width: 100%;
+  height: 78vh;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDsWeCkFNc2Po1-RvvUT59X_UvI5T-zK5X1bl9_awFiuS5ySAkw6e_H4HkLab5o-Gtsu0&usqp=CAU");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
